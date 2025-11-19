@@ -8,7 +8,7 @@ Configuration files for [Renovate](https://github.com/renovatebot/renovate), for
 ```renovate.json
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": "github>nandenjin/renovate-config"
+  "extends": ["github>nandenjin/renovate-config"]
 }
 ```
 
