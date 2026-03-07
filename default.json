@@ -14,7 +14,7 @@
       ],
       "automerge": false
     }, {
-      "matchPackageNames": ["node"],
+      "matchDepNames": ["node"],
       "rangeStrategy": "replace",
       "automerge": false
     }
