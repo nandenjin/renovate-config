@@ -8,6 +8,9 @@
   "minimumReleaseAge": "7d",
   "automerge": true,
   "automergeType": "branch",
+  "pin": {
+    "groupName": null
+  },
   "packageRules": [
     {
       "matchUpdateTypes": ["major"],
